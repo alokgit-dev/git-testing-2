@@ -1,6 +1,6 @@
 ﻿namespace git_api_2nd.Models
 {
-    public class ModelFrist
+    public class ModelFirst
     {
         public int Id { get; set; }
 
